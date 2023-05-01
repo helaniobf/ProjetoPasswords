@@ -32,7 +32,11 @@ Então o projeto carregará assim:
 
 - Execute o Main.java;
 - Veja as senhas classificadas na pasta "ProjetoPasswords/data";
-- Escolha a classe que deseja executar, será o tipo de ordenação. Os arquivos ordenados serão gerados na pasta "ProjetosPasswords/sort", sendo eles os casos medio, melhor, pior e um extra ordenado de forma oposta para que seja possível a realização do pior caso.
+- Escolha a classe que deseja executar, será o tipo de ordenação, e execute.
+
+![image](https://user-images.githubusercontent.com/81391610/235384646-d95b8c27-fe15-4af0-87b0-2e041c822a23.png)
+
+- Verifique os resultados na pasta "ProjetosPasswords/sort", sendo eles os casos medio, melhor, pior e um extra ordenado de forma oposta para que seja possível a realização do pior caso;
 
 ## Desenvolvedores
 Álvaro Dias do Nascimento [GitHub](https://github.com/Elvaro-KSKSKS)
