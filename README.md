@@ -25,6 +25,7 @@ File > Open...
 Selecione "ProjetoPasswords" e aperte em OK;
 
 ![image](https://user-images.githubusercontent.com/81391610/235383449-fccd4507-42ac-4c60-952d-07260d666030.png)
+
 Então o projeto carregará assim:
 
 ![Capturar](https://user-images.githubusercontent.com/81391610/235383048-9f98fd42-7a8a-422d-9047-1efd9531b722.PNG)
