@@ -16,7 +16,7 @@ Para que haja uma execução adequada, é recomendável a utilização do Intell
 ## Utilização
 
 - (Opcional)Substitua o arquivo passwords.csv na pasta "ProjetoPasswords/data", por um de sua escolha, tendo o mesmo formato de linha e colunas;
-- Abra o projeto na IDE como um todo, não apenas certa classe. Em caso de duvidas, siga os passos 
+- Abra o projeto na IDE como um todo, não apenas certa classe. Em caso de duvidas, siga os passos:
 
 File > Open...
 
