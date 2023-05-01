@@ -17,7 +17,7 @@ Para que haja uma execução adequada, é recomendável a utilização do Intell
 
 - (Opcional)Substitua o arquivo passwords.csv na pasta "ProjetoPasswords/data", por um de sua escolha, tendo o mesmo formato de linha e colunas;
 - Abra o projeto na IDE como um todo, não apenas certa classe. Em caso de duvidas, siga os passos File > Open... > ProjetoPasswords;
-![Capturar](https://user-images.githubusercontent.com/81391610/235383048-9f98fd42-7a8a-422d-9047-1efd9531b722.PNG)
+![Capturar](https://user-images.githubusercontent.com/81391610/235383048-9f98fd42-7a8a-422d-9047-1efd9531b722.PNG)(Como deve estar representado o projeto)
 - Execute o Main.java;
 - Veja as senhas classificadas na pasta "ProjetoPasswords/data";
 - Escolha a classe que deseja executar, será o tipo de ordenação. Os arquivos ordenados serão gerados na pasta "ProjetosPasswords/sort", sendo eles os casos medio, melhor, pior e um extra ordenado de forma oposta para que seja possível a realização do pior caso.
